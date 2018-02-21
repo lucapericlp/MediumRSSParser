@@ -15,7 +15,7 @@ MediumRSSParser is an open source project allowing users to get all their Medium
 
 https://lucaperic.com indexes all my Medium posts as an example for this project.
 
-## Downloading MediumRSSParser
+## Downloading and using MediumRSSParser
 
 In order to use MediumRSSParser in your project:
 
@@ -25,7 +25,11 @@ You can install via Composer:
 composer install MediumRSSParser
 ```
 
-or just install manually.
+or just install via:
+
+```php
+	require('path/to/BlogObject.php');
+```
 
 ## API Reference
 
