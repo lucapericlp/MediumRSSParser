@@ -10,7 +10,7 @@
         {
             "name": "Luca Peric",
             "email": "lucaperic.lp@gmail.com",
-            "homepage": "https://lucaperic.com",
+            "homepage": "http://lucaperic.com",
             "role": "Developer"
         }
     ],
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "MediumRSSParser": "src"
+            "MediumRSSParser": "src/"
         }
     }
 }
