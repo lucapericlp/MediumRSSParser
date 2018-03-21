@@ -1,5 +1,5 @@
 {
-    "name": "medium-rss-parser/medium-rss-parser",
+    "name": "lucapericlp/medium-rss-parser",
     "type": "library",
     "description": "Parses a Medium profile's RSS feed and returning easy to use PHP objects for every post sorted by latest date.",
     "keywords": ["Medium parse RSS","MediumRSS","Medium GET","Medium parser","MediumRSSParser","Medium post parser"],
@@ -10,10 +10,11 @@
         {
             "name": "Luca Peric",
             "email": "lucaperic.lp@gmail.com",
-            "homepage": "http://lucaperic.com",
+            "homepage": "https://lucaperic.com",
             "role": "Developer"
         }
     ],
+    "minimum-stability" : "dev",
     "require": {
         "php": ">=5.3.0"
     },
