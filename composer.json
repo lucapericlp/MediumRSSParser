@@ -1,5 +1,5 @@
 {
-    "name": "lucapericlp/medium-rss-parser",
+    "name": "lucapericlp/MediumRSSParser",
     "type": "library",
     "description": "Parses a Medium profile's RSS feed and returning easy to use PHP objects for every post sorted by latest date.",
     "keywords": ["Medium parse RSS","MediumRSS","Medium GET","Medium parser","MediumRSSParser","Medium post parser"],
