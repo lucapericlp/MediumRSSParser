@@ -5,6 +5,7 @@
     "keywords": ["Medium parse RSS","MediumRSS","Medium GET","Medium parser","MediumRSSParser","Medium post parser"],
     "homepage": "https://github.com/lucapericlp/MediumRSSParser",
     "license": "MIT",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Luca Peric",
