@@ -10,11 +10,11 @@
         {
             "name": "Luca Peric",
             "email": "lucaperic.lp@gmail.com",
-            "homepage": "http://lucaperic.com",
+            "homepage": "https://lucaperic.com",
             "role": "Developer"
         }
     ],
-    "minimum-stability" : "dev",
+    "minimum-stability" : "stable",
     "require": {
         "php": ">=5.3.0"
     },
